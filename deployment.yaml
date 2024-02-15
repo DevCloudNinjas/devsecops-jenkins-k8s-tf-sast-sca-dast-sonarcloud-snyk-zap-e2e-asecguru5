@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dcnbuggy
-        image: 221650130255.dkr.ecr.us-west-2.amazonaws.com/asg
+        image: 221650130255.dkr.ecr.us-west-2.amazonaws.com/devcloudninjas
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
